@@ -1,3 +1,3 @@
-competitive-programming-problem-solutions
+# competitive-programming-problem-solutions #
 
 Solutions to problems on various online judges.
